@@ -1,0 +1,9 @@
+#Ignore gitignore
+.gitignore
+
+#Ignore bin and target directories
+bin/
+target/
+
+#Ignore generated files
+*.class
